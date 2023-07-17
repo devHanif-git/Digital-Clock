@@ -67,5 +67,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-Please note that in the "Usage" section, the HTML code provided is just a placeholder. You should replace it with the actual HTML code from your `index.html` file, including the password strength checker content.
+Please note that in the "Usage" section, the HTML code provided is just a placeholder. You should replace it with the actual HTML code from your `index.html` file, including the digital clock content.
 ```
