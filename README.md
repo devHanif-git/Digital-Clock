@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-live-demo-link.com/">View Demo</a>
+  <a href="https://devhanif-git.github.io/Digital-Clock/">View Demo</a>
   ·
   <a href="https://github.com/devHanif-git/Digital-Clock/issues">Report Bug</a>
   ·
