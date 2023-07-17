@@ -43,3 +43,29 @@ Digital Clock is a simple and elegant web application that displays the current 
    ```bash
    git clone https://github.com/devHanif-git/Digital-Clock.git
    ```
+
+2. Open the `index.html` file in your web browser.
+
+## Usage
+
+- Click on the moon or sun icon to toggle between light and dark mode.
+- The clock will automatically update to display the current time.
+- You can customize the styling or add additional functionality according to your needs.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [create an issue](https://github.com/devHanif-git/Digital-Clock/issues).
+
+1. Fork the project.
+2. Create your feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+```
+
+```
